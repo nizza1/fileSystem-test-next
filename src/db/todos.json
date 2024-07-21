@@ -3,20 +3,5 @@
     "id": 1721554547438,
     "task": "hello first to do ",
     "completed": false
-  },
-  {
-    "id": 1721554551650,
-    "task": "2",
-    "completed": false
-  },
-  {
-    "id": 1721554555950,
-    "task": "3",
-    "completed": false
-  },
-  {
-    "id": 1721554571639,
-    "task": "need to test on deploy ",
-    "completed": false
   }
 ]
